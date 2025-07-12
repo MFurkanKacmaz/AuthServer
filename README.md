@@ -3,4 +3,4 @@
 
 Biri ana olmak üzere toplam dört API geliştirildi. Her kullanıcı, sadece yetkili olduğu API'lere erişim sağlayabilmekte; yetkisi olmayan isteklere sistem tarafından izin verilmemektedir.
 
-AuthServer.API klasöründe appsettings dosyasında database connection string girerek kullanabilirsiniz
+AuthServer.API klasöründe appsettings dosyasında database connection string girerek kullanabilirsiniz.

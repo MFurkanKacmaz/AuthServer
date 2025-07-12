@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MiniApp1.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Appuser": {
+      "get": {
+        "tags": [
+          "Appuser"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

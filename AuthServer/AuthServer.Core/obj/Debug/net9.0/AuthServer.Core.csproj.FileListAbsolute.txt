@@ -1,0 +1,15 @@
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\bin\Debug\net9.0\AuthServer.Core.deps.json
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\bin\Debug\net9.0\AuthServer.Core.dll
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\bin\Debug\net9.0\AuthServer.Core.pdb
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\bin\Debug\net9.0\SharedLibrary.dll
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\bin\Debug\net9.0\SharedLibrary.pdb
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\obj\Debug\net9.0\AuthServer.Core.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\obj\Debug\net9.0\AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\obj\Debug\net9.0\AuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\obj\Debug\net9.0\AuthServer.Core.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\obj\Debug\net9.0\AuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\obj\Debug\net9.0\AuthServ.285263B8.Up2Date
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\obj\Debug\net9.0\AuthServer.Core.dll
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\obj\Debug\net9.0\refint\AuthServer.Core.dll
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\obj\Debug\net9.0\AuthServer.Core.pdb
+C:\Users\MONSTER\source\repos\AuthServer\AuthServer.Core\obj\Debug\net9.0\ref\AuthServer.Core.dll

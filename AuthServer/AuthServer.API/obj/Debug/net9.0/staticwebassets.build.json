@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lQ0KNv/aDx8VENIuzooPZyRHvu7tFD30BwrVpVuKgUM=",
+  "Source": "AuthServer.API",
+  "BasePath": "_content/AuthServer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

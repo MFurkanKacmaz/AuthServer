@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MiniApp1.API.Controllers.AppuserController",
+    "Method": "GetUserList",
+    "RelativePath": "api/Appuser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

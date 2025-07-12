@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MiniApp2.API.Controllers.RatingController",
+    "Method": "GetRating",
+    "RelativePath": "api/Rating",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
